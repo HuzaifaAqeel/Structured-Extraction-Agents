@@ -1,0 +1,28 @@
+CASCADA CLOUDWORKS S.A.
+Torre Delta, Piso 14, Calle 50
+Panama City, Panama
+RUC: 155712345-2-2026 DV 81
+
+INVOICE
+
+Invoice No:  INV-2026-0187
+Issue date:  2026-05-02
+Due date:    2026-06-01
+Bill to:     Bahia Verde Analytics Corp.
+             Avenida Balboa 1022, Panama City
+
+--------------------------------------------------------------
+ Description                        Qty   Unit Price     Amount
+--------------------------------------------------------------
+ Cloud infrastructure management     1      1200.00     1200.00
+ (May 2026 retainer)
+ Senior DevOps engineering hours    16        85.00     1360.00
+ Managed PostgreSQL cluster          2       140.00      280.00
+ (per node, May 2026)
+--------------------------------------------------------------
+                                        Subtotal:       2840.00
+                                        ITBMS (7%):      198.80
+                                        TOTAL (USD):    3038.80
+
+Payment terms: Net 30. Wire transfer to the account on file.
+Late payments accrue 1.5% monthly interest.

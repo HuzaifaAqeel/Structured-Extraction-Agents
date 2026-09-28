@@ -1,0 +1,35 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (the "Agreement") is entered into on
+March 1, 2026 (the "Effective Date") between:
+
+  - Faro Norte Logistics, S.A., a company incorporated in the Republic of
+    Panama, with offices at Edificio Pacifico, Piso 9, Punta Pacifica,
+    Panama City (the "Client"); and
+  - Quetzal Software Group LLC, a limited liability company incorporated
+    in the State of Florida, USA (the "Contractor").
+
+1. SERVICES
+   The Contractor will design, develop and maintain the Client's fleet
+   management platform, including monthly feature releases and security
+   patches delivered within 72 hours of vulnerability disclosure.
+
+2. COMPENSATION
+   The Client will pay the Contractor USD 4,500.00 per month, invoiced on
+   the first business day of each month and payable net 30.
+
+3. TERM AND TERMINATION
+   This Agreement runs from the Effective Date until February 28, 2027.
+   It does not renew automatically; renewal requires written agreement of
+   both parties. Either party may terminate for material breach upon 30
+   days' written notice if the breach remains uncured.
+
+4. CONFIDENTIALITY
+   Each party will keep the other party's non-public information
+   confidential for a period of three (3) years after termination.
+
+5. GOVERNING LAW
+   This Agreement is governed by the laws of the Republic of Panama.
+
+Signed on the Effective Date by the authorized representatives of both
+parties.

@@ -1,0 +1,23 @@
+>>> exported_from_word_2013 // formatting may be broken <<<
+
+        d a n i e l   " d a n n y "   O R T E G A   F U E N T E S
+   email : d.ortega.fuentes@example.com  //  cel: +507 6000-0001
+                     colon, panama (open to relocation)
+
+SKILLS::: Python ; python3 ; JS ; nodejs ; node.js ; react.js ; docker ;
+k8s ; postgres ; SQL ; ci/cd ; GCP
+
+work stuff
+==========
+* Cinta Costera BPO ---- "automation engineer" ---- Jan '24 - present
+     built RPA bots that reconcile ~4k supplier invoices/mo, wrote the
+     internal python tooling the whole ops team uses, on-call rotation
+* freelance (self employed) -- web developer -- 2021-06 to 2023-12
+     shopify + custom react storefronts for around 12 local businesses,
+     handled hosting, DNS, the whole thing
+* Colon Free Zone Traders -- IT assistant -- feb 2020 - may 2021
+     helpdesk tickets, inventory db was in Access -> migrated it to
+     postgres myself, nobody asked me to but it worked
+
+studied:
+   * technical degree, software development, ITSE, 2019

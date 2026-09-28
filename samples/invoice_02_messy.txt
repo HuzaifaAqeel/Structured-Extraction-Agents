@@ -1,0 +1,17 @@
+c a s c a d a   CLOUDW0RKS s.a.  --  torre delta p14, calle 50, pty
+ruc 155712345-2-2026  dv81
+FACTURA / 1NVOICE  no. INV-2026-0201        issued 02/06/2026  (due: 02/07/2026)
+
+sold to ->  Bahia Verde Analytics corp.
+
+item                               cant   p.unit     importe
+cloud infra mgmt (jun retainer)     1     1,200.00   1 200.00
+devops hrs sr.                     12        85.00   1,020.00
+pg cluster managed /node jun        2       140.00     280.00
+
+sub total ................  2500.00
+itbms 7% ..................  175.00
+     ** T0TAL USD 2675.00 **
+
+pago: net 30 dias / transferencia bancaria
+gracias por su negocio

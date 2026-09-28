@@ -1,0 +1,10 @@
+openai>=1.40.0
+pydantic>=2.7.0
+fastapi>=0.111.0
+uvicorn>=0.30.0
+python-multipart>=0.0.9
+python-dotenv>=1.0.1
+pypdf>=4.2.0
+readability-lxml>=0.8.1
+lxml[html_clean]>=5.2.0
+pytest>=8.2.0

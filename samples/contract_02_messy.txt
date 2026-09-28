@@ -1,0 +1,27 @@
+                    S E R V I C E S   A G R E E M E N T
+        (scanned copy -- page 1 of 1 -- OCR quality: poor)
+
+THIS AGREEMENT is made and entered into as of the lst day of April, 2026
+(the "Effective  Date") by and betw een:
+
+    (i)  MAREA ALTA SHIPPING GROUP, S.A., a corporation organized under
+         the law s of the Republic of Panama ("the Company"); and
+    (ii) RELOJERO DATA SYSTEMS INC., a Delaw are corporation
+         ("the Provider").
+
+1. SERVICES.  The Provider shall design, build and m aintain a cargo
+   tracking platform for the Com pany, delivering softw are updates no
+   less frequently than once per calendar m onth.
+
+2. COMPENSATION.  The Com pany shall pay the Provider the sum of USD
+   $7,250.00 per m onth, due w ithin fifteen (15) days of invoice.
+
+3. TERM.  This Agreem ent shall com m ence on the Effective Date and
+   shall continue until 31 M arch 2028, unless term inated earlier in
+   accordance herew ith. This Agreem ent does NOT renew autom atically.
+
+4. GOVERNING LAW .  This Agreem ent shall be governed by and construed
+   in accordance w ith the law s of the Republic of Panam a.
+
+signed:   ______________________          ______________________
+          for the Company                 for the Provider

@@ -1,0 +1,34 @@
+MARTA ESQUIVEL RIOS
+Panama City, Panama | marta.esquivel@example.com | +507 6000-0000
+
+SUMMARY
+Full-stack engineer with six years building data-heavy web products for
+logistics and fintech companies. Comfortable owning features end to end,
+from Postgres schema design to React frontends and CI/CD.
+
+SKILLS
+Python, TypeScript, React, Node.js, PostgreSQL, Docker, Kubernetes, AWS
+
+EXPERIENCE
+
+Senior Software Engineer - Istmo Digital Labs, Panama City
+March 2023 - Present
+- Led the migration of a monolithic billing system to event-driven
+  microservices processing 40k invoices per month.
+- Cut p95 API latency from 900ms to 210ms by reworking query plans and
+  adding read replicas.
+- Mentored three junior engineers; ran the team's interview loop.
+
+Software Engineer - Canalside Analytics, Panama City
+June 2020 - February 2023
+- Built customer-facing dashboards (React + FastAPI) used by 60 shipping
+  clients to track container dwell times.
+- Introduced contract tests that cut integration regressions by half.
+
+Junior Developer - Puente Tech Services, Panama City
+January 2019 - May 2020
+- Maintained WordPress and custom PHP sites for small-business clients.
+- Automated backup and deployment scripts in Python.
+
+EDUCATION
+BSc Computer Science, Universidad Tecnologica de Panama, 2018
